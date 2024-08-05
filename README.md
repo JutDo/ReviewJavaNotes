@@ -1,6 +1,17 @@
 # ReviewJavaNotes
 record the Java review info
 
+java集合、异常，lambda表达式，Easy Excel、Hutool
+Redis分布式缓存、分布式session、Redisson分布式锁
+数据批量导入、缓存预热、定时任务
+Nacos和dubbo rpc框架，spring Cloud gateway实现api网关
+jsoup爬虫，分词搜索，kibana
+Canal、LogStash、定时任务、双写实现Elasticsearch和Mysql同步
+能使用CompletableFutrue等juc类，自定义线程池实现并发和操作
+熟悉RabbitMq消息队列
+
+
+
 ## Java常见知识点
 
 
